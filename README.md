@@ -1,2 +1,2 @@
 # ProfitWell
-Profitwell is an SDK for the ProfitWell API.
+ProfitWell is an SDK for the ProfitWell API.
