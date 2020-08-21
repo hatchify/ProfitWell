@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/Hatch1fy/errors"
+	"github.com/hatchify/errors"
 )
 
 var testAuthToken = os.Getenv("PROFITWELL_AUTH_TOKEN")
